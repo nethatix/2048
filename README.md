@@ -1,4 +1,4 @@
-# 2048
+# 2048 with Thai Numbers
 This is a clopy by Mario Karagiorgas done for educational purposes of the online class by http://www.udacity.com
 
 This version is playable with Thai Numbers.
